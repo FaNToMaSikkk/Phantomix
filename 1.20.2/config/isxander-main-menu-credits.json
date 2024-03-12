@@ -1,0 +1,37 @@
+{
+  "main_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": [
+      {
+        "text": "Нажми на меня! by FaNToMaSikkk",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://www.youtube.com/watch?v=PkT0PJwy8mI"
+        },
+        "hoverEvent": {
+          "action": "show_text",
+          "contents": "Открыть ссылку"
+        }
+      }
+    ],
+    "bottom_right": [],
+    "mod_blacklist": []
+  },
+  "pause_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": [
+      {
+        "text": "Нажми на меня! by FaNToMaSikkk",
+        "color": "gray",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://www.youtube.com/watch?v=PkT0PJwy8mI"
+        }
+      }
+    ],
+    "bottom_right": [],
+    "mod_blacklist": []
+  }
+}
